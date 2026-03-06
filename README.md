@@ -47,11 +47,11 @@ src/
 
 ### Normal Cases
 - Gallery renders all recipes
-- All recipe cards appear with correct titles, images, and ingredients.
+  - All recipe cards appear with correct titles, images, and ingredients.
 - Images display uniformly
-- All images have the same height and width due to CSS rules.
+  - All images have the same height and width due to CSS rules.
 - Ingredients list renders correctly
-- Each recipe shows all ingredients as list items.
+  - Each recipe shows all ingredients as list items.
 ### Edge Cases
 - Missing or invalid image URL
     - Card still renders; browser shows a broken image icon.
